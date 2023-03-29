@@ -1,0 +1,21 @@
+areas = [
+    "https://pl-wiki.metin2.gameforge.com/index.php/Pyungmoo",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Bakra",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Dolina_Seungryong",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Pustynia_Yongbi",
+    "https://pl-wiki.metin2.gameforge.com/index.php/G%C3%B3ra_Sohan",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Doyyumhwaji",
+    "https://pl-wiki.metin2.gameforge.com/index.php/%C5%9Awi%C4%85tynia_Hwang",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Wie%C5%BCa_Demon%C3%B3w",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Lungsam",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Czerwony_Las",
+    "https://pl-wiki.metin2.gameforge.com/index.php/W%C4%99%C5%BCowe_Pole",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Kraina_Gigant%C3%B3w",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Hasun_Dong",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Jungsun_Dong",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Sangsun_Dong",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Kuahklo_Dong",
+    "https://pl-wiki.metin2.gameforge.com/index.php/2_loch_paj%C4%85k%C3%B3w",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Grota_Wygna%C5%84c%C3%B3w",
+    "https://pl-wiki.metin2.gameforge.com/index.php/Grota_Wygna%C5%84c%C3%B3w_2"
+]

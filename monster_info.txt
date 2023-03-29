@@ -1,0 +1,323 @@
+Alfa Wilk;4;1
+Bera;33;4
+Bezduszna Eun-Jung;26;4
+Bezduszna Jin-Hee;31;4
+Bezduszna Mi-Jung;23;4
+Bezduszna Se-Rang;28;4
+Bia³y Tygrys;24;2
+Br¹z. NiedŸw.;21;2
+Cung-Mok;9;4
+Czar. NiedŸw.;19;1
+Czerw. Dzik;10;2
+Dzik;7;1
+Dziki Pies;1;1
+Eun-Jung;26;4
+G³odny Alfa Wilk;4;1
+G³odny Bia³y Tygrys;24;2
+G³odny Br¹z. NiedŸw.;21;2
+G³odny Czar. NiedŸw.;19;1
+G³odny Czerw. Dzik;10;2
+G³odny Dzik;7;1
+G³odny Nieb. Alfa Wilk;9;1
+G³odny Nieb. Wilk;6;1
+G³odny NiedŸw. Grizzly;15;2
+G³odny NiedŸw.;12;1
+G³odny Szary Alfa Wilk;16;2
+G³odny Szary Wilk;13;1
+G³odny Tygrys;18;1
+G³odny Wilk;3;1
+G³odny Zab³¹kany Pies;1;1
+Jin-Hee;31;4
+Jug-Hyul;10;4
+Li-An;24;4
+Lykos;30;4
+Mi-Jung;23;4
+Mu-Rang;16;4
+Nieb. Alfa Wilk;9;1
+Nieb. Wilk;6;1
+NiedŸw. Grizzly;15;2
+NiedŸwiedŸ;12;1
+Przeklêty Bia³y Tygrys;29;4
+Przeklêty Br¹z. NiedŸw.;26;4
+Przeklêty Czerw. Dzik;15;4
+Przeklêty Szary Alfa Wilk;21;4
+Scrofa;31;2
+Se-Rang;28;4
+Szary Alfa Wilk;16;2
+Szary Wilk;13;1
+Tchórz. Zaprzys. Komand.;25;3
+Tchórz. Zaprzys. £ucznik;20;1
+Tchórz. Zaprzys. ¯o³n.;18;1
+Tigris;35;4
+Tygrys;18;1
+Wilk;3;1
+Young-Ji;21;4
+Zaprzys. Genera³;25;2
+Zaprzys. Komandor;25;2
+Zaprzys. £ucznik;20;1
+Zaprzys. ¯o³nierz;18;1
+Best. Kapitan;42;Boss
+Best. Maniak;37;3
+Best. Specjalista;42;4
+Best. ¯o³nierz;35;3
+Bestialski £ucznik;40;4
+Bo;37;4
+Chuong;45;4
+Dziki Genera³;36;3
+Dziki £ucznik;35;2
+Dziki S³uga;32;1
+Dziki ¯o³nierz Piechoty;29;1
+Goo-Pae;39;4
+Gu-Ryung Czarnego Wiatru;35;2
+Jak-To Czarnego Wiatru;30;2
+Joh-Hwan Czarn. Burzy;36;4
+Kyuk-Jang Czarn. Burzy;38;4
+£ucznik Czarn. Burzy;35;3
+£ucznik Czarnego Wiatru;29;1
+Mahon;32;4
+Maniak Czarn. Burzy;33;3
+Maniak Czarnego Wiatru;27;1
+Pho-Hwan Czarn. Burzy;40;4
+Silny Dziki Genera³;36;3
+Silny Dziki £ucznik;35;2
+Silny Dziki Piechur;29;1
+Silny Dziki S³uga;32;2
+To-Su Czarnego Wiatru;33;2
+Zaprzys. £ucznik;20;1
+Zaprzys. ¯o³nierz;18;1
+Z³y Czar. Burz. Joh-Hwan;30;2
+Z³y Czar. Burz. Kyuk-Jang;33;2
+Z³y Czar. Burz. £ucznik;29;1
+Z³y Czar. Burz. Pho-Hwan;35;2
+Z³y Czar. Burz. ¯o³nierz;26;1
+¯o³nierz Czarn. Burzy;31;3
+¯o³nierz Czarn. Wiatru;26;1
+Best. Maniak;37;3
+Bestialski £ucznik;40;4
+Best. ¯o³nierz;35;3
+Best. Specjalista;42;4
+Czarny Ork;46;4
+Czarny Ork Zwiadowca;49;4
+Du¿y £ysy Ork;34;1
+Du¿y £ysy Ork Czarodziej;40;3
+Du¿y £ysy Ork Genera³;44;3
+Du¿y £ysy Ork Wojownik;39;2
+Du¿y £ysy Ork Zwiadowca;36;2
+Elit. Ork;34;1
+Elit. Ork Czarodziej;40;3
+Elit. Ork Genera³;44;3
+Elit. Ork Wojownik;39;2
+Elit. Ork Zwiadowca;36;2
+Ezoteryczny Arahan;38;2
+Ezot. Przyzywacz;51;4
+Ezoteryczny Fanatyk;35;1
+Ezot. Drêczyciel;49;4
+Ezot. Egzekutor;48;2
+Ezot. Wojow. Arahan;41;2
+Król Skorpion;39;2
+£ysy Czarny Ork;46;4
+Olbrz. £ysy Czar. Ork;49;4
+Ork;26;1
+Ork Czarodziej;33;3
+Ork Wojownik;31;2
+Ork Zwiadowca;29;2
+Wódz Orków;50;Boss
+Wysoki Arahan;38;2
+Wysoki Drêczyciel;49;4
+Wysoki Elit. Arahan;44;3
+Wódz Ezot. Arahan;44;3
+Wysoki Fanatyk;35;1
+Wysoki Przywo³ywacz;51;4
+Wysoki Œmiercionoœny;48;2
+Wysoki Wojownik Arahan;41;2
+Best. Cz³owiek Skorpion;60;1
+Czerwony Truj¹cy Paj¹k;48;2
+Król Skorpion;39;2
+M³ody Paj¹k;43;1
+Olbrzymi ¯ó³w;67;Boss
+Paj¹k ¯o³nierz;52;2
+Pod³y Czerw. Truj. Paj¹k;48;2
+Pod³y M³ody Truj. Paj¹k;43;1
+Pod³y Szpon. Truj. Paj¹k;50;2
+Pod³y Œm. Truj. Paj¹k;45;1
+Pustynne Lataj. Oko;37;2
+Pustynny Zawadiaka;54;4
+Silny Pustynny Zawadiaka;54;4
+Skorpion £ucznik;47;3
+Szpon. Paj¹k;50;2
+Truj¹cy Paj¹k;45;1
+Wê¿owy £ucznik;51;3
+Wê¿owy Miecznik;48;3
+Duch Martwego Cia³a;49;2
+Dziewiêæ Ogonów;72;Boss
+Lodowy Golem;66;4
+Lodowy Robak;64;4
+Lodowy Wieloryb Zab.;63;2
+Lodowy Lew;64;3
+MroŸny Lodowy Cz³owiek;65;3
+Wredny Zaczarowany Lód;62;2
+Yeti;66;3
+Zaczarowany Lód;62;2
+Zara¿ony Cz³owiek;53;2
+Zara¿ony £ucznik;58;3
+Zara¿ony Miecznik;55;3
+Zara¿ony Pies;51;2
+Zara¿ony Przyw.;59;4
+Zara¿ony W³ócznik;58;3
+Z³y Duch Martwego Cia³a;49;2
+Z³y Zara¿ony Cz³owiek;53;2
+Z³y Zara¿ony £ucznik;58;3
+Z³y Zara¿ony Miecznik;55;3
+Z³y Zara¿ony Pies;51;2
+Z³y Zara¿ony Przyw.;59;3
+Z³y Zara¿ony W³ócznik;58;3
+Ognisty Duch;69;2
+Ognisty Król;73;Boss
+Ognisty Wojownik;72;4
+P³omieñ;71;3
+S³uga Walcz¹cego Tygrysa;69;2
+Walcz¹cy Tygrys;70;3
+Best. Arahan;53;2
+Best. Drêczyciel;56;4
+Best. Fanatyk;52;1
+Best. Przywo³ywacz;57;4
+Best. Œmiercionoœny;55;2
+Best. Wojow. Arahan;54;2
+Best. Wódz Arahan;54;3
+Drzewny ¯abi Przyw.;59;4
+Drzewny ¯abi ¯o³nierz;57;2
+Du¿y Drzewny ¯abi Przyw.;59;4
+Elit. Ezot. Arahan;53;2
+Elit. Ezot. Drêczyciel;56;4
+Elit. Ezot. Egzekutor;55;2
+Elit. Ezot. Fanatyk;52;1
+Ezot. Przyw.;54;Boss
+Elit. Ezot. Przyzywacz;57;4
+Elit. Ezot. Wojownik;54;2
+Elit. Ezot. Wódz;54;3
+Reinkar. Ezot. Przyw.;62;5
+Ropuszy Genera³;61;4
+Straszyd³o;58;2
+Zjawa ¯ó³tego Tygrysa;75;Boss
+Brutalna Lataj¹ca Czaszka;73;4
+Brutalny Demoni £ucznik;69;3
+Brutalny Demoni Szaman;71;3
+Brutalny Demoni W³ócznik;70;3
+Brutalny Demoni ¯o³nierz;67;3
+Brutalny Duch Chaosu;73;3
+Brutalny Duch ¯alu;72;3
+Demoniczna Bestia;75;4
+Demon £ucznik;58;2
+Demon Szaman;60;3
+Demon W³ócznik;59;2
+Demon ¯o³nierz;57;2
+Duch Chaosu;73;3
+Duchowy Mistrz Miecza;72;4
+Duch ¯alu;72;3
+Elit. Król Demonów;75;Boss
+Król Demonów;75;Boss
+Lataj¹ca Czaszka;73;3
+Mistrz Czaszk. Miecza;72;4
+Nieœm. Duch;74;4
+Nieœm. Duch (Czerw.);74;4
+Pod³y Demoni £ucznik;69;3
+Pod³y Demoni Szaman;71;3
+Pod³y Demoni W³ócznik;70;3
+Pod³y Demoni ¯o³nierz;67;3
+Umar³y Rozpruwacz;78;5
+Driada;69;2
+Drzewo Duchów;65;1
+Pniak Drzewa Duchów;67;1
+Duch Wierzby;70;2
+Z³e Drzewo;71;3
+Cz. Pniak Drzewa Duchów;76;3
+Czerwona Driada;77;3
+Czerwone Drzewo Duchów;74;2
+Czerwony Duch Wierzby;80;4
+Czerwone Z³e Drzewo;82;4
+Olbrzymie Drzewo Duchów;84;Boss
+Kamienny Golem;72;2
+Niszczyciel;66;2
+Ogr RzeŸnik;70;3
+Olbrzymi Skalny Golem;76;3
+Ogr Wojownik;68;1
+Przeklêty Alfa Wilk;9;4
+Przeklêty Czar. NiedŸw.;24;3
+Przeklêty Czerw. Dzik;15;4
+Przeklêty Nieb. Wilk;11;3
+Przeklêty Tygrys;24;3
+Przeklêty Wilk;8;3
+Przekl. Nieb. Alfa Wilk;14;4
+Przekl. NiedŸw. Grizzly;20;4
+Skalny Golem;69;2
+Niszczyciel;66;2
+Ogr RzeŸnik;70;3
+Ogr Szaleniec;75;3
+Ogr Wojownik;68;1
+Tysiêczny Wojownik;77;4
+Wojownik Z Toporem;73;3
+Skalista Ma³pa;30;Boss
+S³aby Ma³pi Genera³;29;4
+S³aby Ma³pi Miotacz;25;2
+S³aby Ma³pi Wojownik;27;3
+S³aby Ma³pi ¯o³nierz;22;1
+Chodz¹ca Ma³pa;43;Boss
+Kamienna Ma³pa;41;4
+Ma³pi Genera³;40;4
+Ma³pi Miotacz;37;2
+Ma³pi Wojownik;39;3
+Ma³pi ¯o³nierz;35;1
+Lord Ma³p;55;Boss
+Silna Kamienna Ma³pa;53;4
+Silna Z³ota Ma³pa;54;4
+Silny Ma³pi Genera³;52;4
+Silny Ma³pi Miotacz;47;2
+Silny Ma³pi Wojownik;49;3
+Silny Ma³pi ¯o³nierz;45;1
+Z³a Silna Kamienna Ma³pa;53;4
+Z³a Silna Z³ota Ma³pa;54;4
+Z³y Silny Ma³pi Genera³;52;4
+Z³y Silny Ma³pi Miotacz;47;2
+Z³y Silny Ma³pi Wojownik;49;3
+Z³y Silny Ma³pi ¯o³nierz;45;1
+Elit. Truj. Paj¹k ¯o³n.;58;4
+Królowa Paj¹ków;60;Boss
+M³ody Truj¹cy Paj¹k;50;3
+Szpon. Truj¹cy Paj¹k;56;4
+Œmiert. Truj¹cy Paj¹k;52;3
+Truj¹cy Paj¹k ¯o³nierz;58;4
+Z³y Czerw. Truj. Paj¹k;54;4
+Czerw. Œmier. Truj. Paj. v2;64;3
+Królowa Paj¹ków;60;Boss
+Ma³y Truj¹cy Paj¹k v2;60;1
+Pustynny Zawadiaka v2;68;4
+Skorpion £ucznik v2;62;2
+Szpon. Truj¹cy Paj¹k v2;66;3
+Œmiert. Truj¹cy Paj¹k v2;62;2
+Truj¹cy Paj¹k ¯o³nierz v2;68;4
+Wê¿owy £ucznik v2;66;3
+Wê¿owy Miecznik v2;64;3
+£owca Setaou;89;1
+Mistyk Setaou;89;2
+¯o³nierz Setaou;91;2
+Wojownik Setaou;87;1
+Podziemny Kawa³ Lodu;81;2
+Podziemny Lod. Cz³owiek;83;3
+Podziemny Lodowy Golem;85;4
+Podziemny Lodowy Lew;83;3
+Podziemny Lodowy Robak;82;2
+Podziemny Lodowy Zabójca;81;2
+Podziemny Yeti;84;3
+Silna Lodowa WiedŸma;89;Boss
+Dowódca Huashin;88;4
+Dowódca Yonghan;93;4
+Genera³ Huashin;90;Boss
+Genera³ Yonghan;95;Boss
+Komendant Setaou;97;4
+Lider Setaou;90;2
+£owca Setaou;89;1
+£ucznik Setaou;93;3
+Magistrat Setaou;95;3
+Mistyk Setaou;89;2
+Wojownik Setaou;87;1
+¯o³nierz Setaou;91;2
